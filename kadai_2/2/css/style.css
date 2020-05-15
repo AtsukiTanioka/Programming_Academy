@@ -1,0 +1,57 @@
+body{
+  margin: 0px;
+}
+
+.line1{
+  display: flex;
+}
+
+.line2{
+  display: flex;
+ }
+
+.line3{
+ display: flex;
+}
+
+.line4{
+ display: flex;
+}
+
+.line5{
+ display: flex;
+}
+
+.line6{
+ display: flex;
+}
+
+.box_blue{
+  background-color: blue;
+  height: 200px;
+  width: 512px;
+}
+
+.box_black{
+    background-color: black;
+    height: 200px;
+    width: 512px;
+  }
+
+.box_red{
+    background-color: red;
+    height: 200px;
+    width: 512px;
+    }
+
+.box_yellow{
+  background-color: yellow;
+  height: 200px;
+  width: 512px;
+}
+
+.box_green{
+  background-color: green;
+  height: 200px;
+  width: 512px;
+}
