@@ -1,0 +1,29 @@
+body{
+  margin: 0px;
+}
+
+.box1{
+  background-color: blue;
+  height: 400px;
+  width: 506.4px;
+}
+
+.box2{
+  background-color: red;
+  height: 400px;
+  width: 506.4px;
+}
+
+.box3{
+  background-color: green;
+  height: 400px;
+  width: 506.4px;
+}
+
+.wrapper1{
+  display: flex;
+}
+
+.wrapper2{
+  display: flex;
+}
