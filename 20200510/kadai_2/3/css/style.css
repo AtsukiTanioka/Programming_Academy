@@ -1,0 +1,65 @@
+@media screen and (min-width:1536px) {
+
+body{
+  margin: 0px;
+}
+
+.line1{
+  background-color: blue;
+  height: 50px;
+  width: 1536px;
+}
+
+.box1{
+  background-color: red;
+  height: 800px;
+  width: 1024px;
+}
+
+.box2{
+  background-color: black;
+  height: 800px;
+  width: 512px;
+}
+
+.wrapper{
+  display: flex;
+}
+
+.line3{
+  background-color: green;
+  height: 50px;
+  width: 1536px;
+}
+}
+
+@media screen and (max-width:1535px) {
+
+body{
+  margin: 0px;
+}
+
+.line1{
+  background-color: blue;
+  height: 50px;
+  width: 100%;
+}
+
+.box1{
+  background-color: red;
+  height: 800px;
+  width: 100%;
+  }
+
+.box2{
+  background-color: black;
+  height: 50px;
+  width: 100%;
+  }
+
+.line3{
+background-color: green;
+height: 50px;
+width: 100%;}
+
+}
