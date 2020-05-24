@@ -1,0 +1,60 @@
+body{
+margin: 0px;
+}
+
+.header{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.header_line{
+  background-color: #00008b;
+  width: 90%;
+}
+
+.header_text{
+  font-size: 12.5px;
+  color: white;
+  padding-left: 60%;
+  margin: 0px;
+}
+
+.header_imag{
+  width: 60%;
+  position: relative;
+  top: 10px;
+  left: 100px;
+}
+
+.wrapper_menu{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 25%;
+  margin-right: 25%;
+  position: relative;
+  top: -30px;
+}
+
+.menu{
+  font-size: 12.5px;
+}
+
+.contact_box{
+  background-color: #EE0000;
+  width: 10%;
+  height: 25px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -67px;
+  left: 80%;
+}
+
+.contact_text{
+  color: white;
+  font-size: 12.5px;
+  font-weight: bold;
+}
