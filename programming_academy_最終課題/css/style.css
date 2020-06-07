@@ -2,15 +2,11 @@ body{
 margin: 0px;
 }
 
-.header{
-display: flex;
-justify-content: center;
-align-items: center;
-}
-
 .header_line{
   background-color: #00008b;
   width: 90%;
+  display: flex;
+  justify-content: center;
 }
 
 .header_text{
@@ -155,6 +151,9 @@ align-items: center;
   height: 180px;
   border-radius: 10px;
   text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 
 .banner_text{
